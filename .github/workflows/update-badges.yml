@@ -13,4 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@9e2802524f5361f1c3af4d99ea1247a7d5952687
         with:
-          CREDLY_SORT: POPULAR
+          CREDLY_USER; martina-scholz
